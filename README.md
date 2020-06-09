@@ -8,7 +8,7 @@
 </th>
 </tr>
 <tr>
-<td colspan="2"><a class="image" href="220px-Richard_Dawkins_Cooper_Union_Shankbone.jpg"><img src="220px-Richard_Dawkins_Cooper_Union_Shankbone.jpg" srcset="220px-Richard_Dawkins_Cooper_Union_Shankbone.jpg" alt="Richard Dawkins Cooper Union Shankbone.jpg" width="220" height="275" data-file-width="1438" data-file-height="1798" /></a>
+<td colspan="2"><a class="image" href="220px-Richard_Dawkins_Cooper_Union_Shankbone.png"><img src="220px-Richard_Dawkins_Cooper_Union_Shankbone.png" srcset="220px-Richard_Dawkins_Cooper_Union_Shankbone.png" alt="Richard Dawkins Cooper Union Shankbone.png" width="220" height="275" data-file-width="1438" data-file-height="1798" /></a>
 <div>Dawkins in 2010</div>
 </td>
 </tr>
